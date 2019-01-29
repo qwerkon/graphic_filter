@@ -1,0 +1,27 @@
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\ResolveAssemblyReference.cache
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\filtry_graficzne_csharp.Properties.Resources.resources
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\filtry_graficzne_csharp.csproj.GenerateResource.Cache
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe.config
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.pdb
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.exe
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.pdb
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\filtry_graficzne_csharp.filtry.resources
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe.manifest
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.application
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.exe.manifest
+O:\c-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.application
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe.config
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.exe
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.pdb
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe.manifest
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.application
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.exe
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\bin\Debug\Filtry graficzne w C#.pdb
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\ResolveAssemblyReference.cache
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\filtry_graficzne_csharp.filtry.resources
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\filtry_graficzne_csharp.Properties.Resources.resources
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\GenerateResource.read.1.tlog
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\GenerateResource.write.1.tlog
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.exe.manifest
+i:\Programowanie\C-sharp\moje_projekty\filtry_graficzne_csharp\filtry_graficzne_csharp\obj\Debug\Filtry graficzne w C#.application
